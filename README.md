@@ -1,2 +1,2 @@
 # Data-Science-Analytics
-Preprocessing Exploration &amp; Visualization
+Preprocessing, Exploration &amp; Visualization
